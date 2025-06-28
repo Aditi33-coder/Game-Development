@@ -1,30 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Game Scene Description</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    h2 {
-      color: #2c3e50;
-    }
-  </style>
-</head>
-<body>
-
-  <img src="https://github.com/user-attachments/assets/b7e1baba-fb7e-45bf-b561-6d180f6f85a6" alt="Game Scene">
-
-  <h2>Character</h2>
-  <p>A young boy with blue hair and a red backpack, likely the player or protagonist, is walking through a forest. He has a determined or cheerful expression, indicating an adventurous setting.</p>
+![image](https://github.com/user-attachments/assets/3090d673-a9b2-4d70-b37b-afed2cf4ef91)
+<h2>Character</h2>
+<p>A young boy with blue hair and a red backpack, likely the player or protagonist, is walking through a forest. He has a determined or cheerful expression, indicating an adventurous setting.</p>
 
   <h2>Environment</h2>
   <p>The scene is set in a dense forest with tall trees, green foliage, mushrooms, and a visible tree stump, creating a magical or slightly mysterious atmosphere.</p>
